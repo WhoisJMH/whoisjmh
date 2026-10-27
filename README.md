@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello, Stranger 👋
+
+### ☕ Buy me a coffee / Support me
+<a href="https://paypal.me/whoisjmh" target="_blank">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Badge"/>
+</a>
+
+### I'm working for me and my family now!
 
 <!--
 **WhoisJMH/whoisjmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
